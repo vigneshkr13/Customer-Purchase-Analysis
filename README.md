@@ -80,8 +80,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 📂 Online-Shopper-Prediction  
 │── 📜 README.md  # This file  
 │── 📜 shopper_prediction.py  # Main script for modeling  
-│── 📜 online_shoppers_intention.csv  # Dataset  
-│── 📜 requirements.txt  # Dependencies  
+│── 📜 Online Shoppers Purchasing Intention Dataset  # Dataset  
 │── 📂 results/  # Output graphs and evaluation metrics  
 ```
 
