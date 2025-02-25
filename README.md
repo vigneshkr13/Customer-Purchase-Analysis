@@ -10,7 +10,7 @@ The dataset includes the following features:
 - **Customer Session Information:** Session duration, number of pages visited, time spent on the website
 - **Demographics:** Age, gender, location
 - **Product Preferences:** Categories browsed, items added to cart
-- **Transaction Details: **Whether a purchase was made
+- **Transaction Details:** Whether a purchase was made
 
   
 ## ⚙️ Data Preprocessing
