@@ -1,3 +1,4 @@
+
 # Predicting Whether An Online Shopper Purchases An Item Based On Their Behaviour  
 
 ## Project Overview  
@@ -87,6 +88,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## References  
 - Sakar, C. O., & Kastro, O. (2018). Online Shoppers Purchasing Intention Dataset. UCI Machine Learning Repository.  
 - Verma, R. (2021). One-hot encoding for categorical variables.  
-
----
 
